@@ -1,11 +1,20 @@
 ---
 name: miaoshou-tiancheng
 description: >-
-  以《黄帝内经》整体框架(治未病·辨证论治·三因制宜·形神合一)介入 AI 的健康/养生类回答,让 AI 从"症状→方案"的直连,升维到"察候→辨证→三因→守边界"。
-  WHEN TO USE — 当用户问养生/调理/作息/食养/节气起居,或描述亚健康状态(疲乏、失眠、食欲不振、情志郁结),或要把"千人一面"的健康建议改成"因人因时因地"的个体化建议,或设计健康类 agent 的问诊话术,或审查一条健康文案是否越过疗效/诊断红线时,主动激活本 skill。
-  用户常说的关键词:养生、调理、上火、湿气、亚健康、失眠、疲乏、食疗/食养、节气、体质、寒/热/虚/实、阴阳、五脏、治未病、辨证、起居、安神、调和。
-  反触发(DO NOT USE,改为先免责并导向执业医师):急症、确诊病情、用药剂量、替代就医、孕产用药、紧急胸痛/出血/高热等。
-  本 skill 输出为建议性养生文化内容,非医疗、诊断、用药依据。
+  Brings the holistic framework of the 《黄帝内经》Huangdi Neijing (治未病
+  prevention-first · 辨证论治 syndrome-differentiation · 三因制宜 person/time/place
+  tailoring · 形神合一 body-mind unity) into AI's health and wellness answers,
+  lifting it from "symptom → fix" to "observe → differentiate → tailor → respect
+  limits." Activates when: asking about wellness / conditioning / daily rhythms /
+  food therapy / seasonal living, describing sub-health states
+  (fatigue, insomnia, poor appetite, emotional stagnation), reworking
+  "one-size-fits-all" advice into individualized guidance, designing a
+  health agent's consultation flow, or reviewing whether copy crosses
+  efficacy/diagnosis red lines. Keywords: 养生 wellness, 调理, 上火, 湿气, sub-health,
+  insomnia, fatigue, 食疗 food therapy, 节气 solar terms, 体质 constitution,
+  寒/热/虚/实, 治未病, 辨证. DO NOT USE (disclaim and direct to a physician): acute
+  conditions, diagnosed illness, dosages, replacing care, emergencies. Disclaimer: advisory wellness-culture content only —
+  NOT medical, diagnostic, or drug advice.
 version: 1.0.0
 date: 2026-06-02
 authority: WUJI Labs
