@@ -1,0 +1,28 @@
+{
+  "name": "@labs-skills/miaoshou-tiancheng",
+  "version": "1.0.0",
+  "description": "妙手天成 MiaoShou TianCheng — Healing Hands. A WUJI Labs open-source skill that infuses the integrative framework of the Huangdi Neijing (treat-what-is-not-yet-ill, pattern differentiation, three-cause tailoring, body-and-spirit unity) into AI's health and wellness advice. Advisory content only, not a medical diagnosis basis.",
+  "license": "MIT",
+  "author": "WUJI (wuji-labs)",
+  "homepage": "https://github.com/wuji-labs/miaoshou-tiancheng",
+  "private": true,
+  "type": "module",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "README.zh-CN.md",
+    "CHANGELOG.md",
+    "LICENSE",
+    ".claude-plugin/",
+    "commands/",
+    "agents/",
+    "examples/",
+    "reference/",
+    "platforms/",
+    "benchmark/"
+  ],
+  "scripts": {
+    "build": "echo no build",
+    "clean": "echo clean"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "miaoshou-tiancheng",
+  "version": "1.0.0",
+  "description": "Infuses the integrative framework of the Huangdi Neijing (treat-what-is-not-yet-ill, pattern differentiation, three-cause tailoring, body-and-spirit unity) into AI's health and wellness advice. Advisory content only — not a medical diagnosis basis.",
+  "author": "WUJI (wuji-labs)",
+  "homepage": "https://github.com/wuji-labs/miaoshou-tiancheng",
+  "repository": "https://github.com/wuji-labs/miaoshou-tiancheng",
+  "license": "MIT",
+  "keywords": [
+    "huangdi-neijing",
+    "tcm",
+    "wellness",
+    "preventive-care",
+    "pattern-differentiation",
+    "health-advice",
+    "wuji-labs"
+  ],
+  "skills": [
+    { "name": "miaoshou-tiancheng", "path": "SKILL.md", "language": "zh-CN" }
+  ],
+  "agents": [
+    { "name": "tiancheng-physician", "path": "agents/tiancheng-physician.md" }
+  ],
+  "commands": [
+    { "name": "miaoshou-tiancheng", "path": "commands/miaoshou-tiancheng.md" }
+  ]
+}

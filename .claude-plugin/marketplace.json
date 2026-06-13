@@ -1,0 +1,21 @@
+{
+  "name": "miaoshou-tiancheng-skills",
+  "description": "MiaoShou TianCheng — Healing Hands. Teaches AI to see the whole person via the Huangdi Neijing framework before giving any health or wellness advice. Advisory content only.",
+  "owner": {
+    "name": "WUJI",
+    "email": "wuji-labs@users.noreply.github.com",
+    "url": "https://github.com/wuji-labs"
+  },
+  "plugins": [
+    {
+      "name": "miaoshou-tiancheng",
+      "description": "MiaoShou TianCheng — Healing Hands. Treat-what-is-not-yet-ill, pattern differentiation, three-cause tailoring, body-and-spirit unity for AI health advice. Advisory only.",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "WUJI",
+        "url": "https://github.com/wuji-labs"
+      }
+    }
+  ]
+}
