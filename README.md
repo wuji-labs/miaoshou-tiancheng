@@ -173,3 +173,7 @@ This skill produces **advisory wellness content only**. It is **not** medical di
 
 *妙手天成 MiaoShou TianCheng — by [WUJI](https://github.com/wuji-labs)*
 *Healing begins not with the cure, but with seeing the whole person.*
+
+## 联系 · Contact
+扫码添加无极微信，交流合作 · Scan to add WUJI on WeChat
+<img src="assets/wechat-qr.png" width="200" alt="WUJI WeChat QR">
